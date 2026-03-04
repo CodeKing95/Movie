@@ -1,4 +1,4 @@
-import styled from "styled-components";
+import styled from "styled-components"; 
 
 const MovieContainer = styled.div`
     display: flex;
@@ -45,4 +45,5 @@ const MovieComponent = (props) => {
             </MovieContainer>
     )
 };
+
 export default MovieComponent;
